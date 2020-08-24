@@ -9,4 +9,4 @@ Outputs scene as a .ppm file.
 * Shadows and reflections using secondary rays
 * Checkerboard planes
 
-![alt text](https://github.com/martinmclaren/ray-tracer/blob/master/tests/preview.png?raw=true)
+![alt text](https://github.com/martinmclaren/ray-tracer/blob/master/tests/preview.jpg?raw=true)
